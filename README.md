@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Audrey's Portfolio
+View Audrey Tang's data science projects
 
-You can use the [editor on GitHub](https://github.com/AudreyCLT/portforlio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Skincare Product Prediction: End-to-End ML Project
+### Problem Statement:
+How does the popularity of a skincare product change with the product's information (skin concern, skin type, price, etc)?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We will use Sephora's number of loves to quantify popularity, and will address this problem statement with regression models using supervised learning. The goal is to find out the features that makes a product popular from building models that can predict a product's popularity.
 
-### Markdown
+### Use Case for Business:
+For skincare manufacturers, understanding what makes a product popular is important, as they can use their resources to produce products which will be popular. It also help with their pricing strategy. For example, are products made for dry skin more popular than those for oily skin? Or are moisturisers more well-loved than treatments?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AudreyCLT/portforlio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For consumers, we can build interactive visualization tools from the a large dataset containing all products, which can help consumers with comparing the reviews of different products.
