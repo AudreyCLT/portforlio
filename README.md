@@ -9,6 +9,6 @@ For skincare manufacturers, understanding what makes a product popular is import
 
 For consumers, we can build interactive visualization tools from the a large dataset containing all products, which can help consumers with comparing the reviews of different products.
 
-## [2. Credit-Fraud-Classification](https://github.com/AudreyCLT/Credit-Fraud-Classification)
+## [2. Credit Fraud Classification Project](https://github.com/AudreyCLT/Credit-Fraud-Classification)
 ### Problem Statement:
 No one is impervious to financial crimes, and one of the most common one is having a malicious third-party using your credit card without your consent.  This leads to one of the most popular classification problems for data science, where we apply data science to check the validity of a credit card transaction.
