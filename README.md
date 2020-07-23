@@ -1,7 +1,7 @@
 ## Welcome to Audrey's Portfolio
 View Audrey Tang's data science projects
 
-## [1. Skincare Product Prediction: End-to-End ML Project] (https://github.com/AudreyCLT/Sephora-ML-Project)
+## [1. Skincare Product Prediction: End-to-End ML Project](https://github.com/AudreyCLT/Sephora-ML-Project)
 ### Problem Statement:
 How does the popularity of a skincare product change with the product's information (skin concern, skin type, price, etc)?
 
@@ -12,7 +12,7 @@ For skincare manufacturers, understanding what makes a product popular is import
 
 For consumers, we can build interactive visualization tools from the a large dataset containing all products, which can help consumers with comparing the reviews of different products.
 
-## [2. Credit-Fraud-Classification] (https://github.com/AudreyCLT/Credit-Fraud-Classification)
+## [2. Credit-Fraud-Classification](https://github.com/AudreyCLT/Credit-Fraud-Classification)
 ML project to detect whether a credit card transaction is genuine or fraudulent.
 
 ### Problem Statement:
