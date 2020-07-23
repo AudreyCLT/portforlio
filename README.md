@@ -1,3 +1,5 @@
+# Welcome to Audrey Tang's Data Science Portfolio
+
 ## [1. Skincare Product Prediction: End-to-End ML Project ](https://github.com/AudreyCLT/Sephora-ML-Project)
 ### Problem Statement:
 How does the popularity of a skincare product change with the product's information (skin concern, skin type, price, etc)?
