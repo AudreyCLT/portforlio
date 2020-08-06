@@ -11,6 +11,31 @@ For skincare manufacturers, understanding what makes a product popular is import
 
 For consumers, we can build interactive visualization tools from the a large dataset containing all products, which can help consumers with comparing the reviews of different products.
 
+### Packages:
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Selenium
+- BeautifulSoup
+- Scikit-Learn
+
+
 ## [2. Credit Fraud Classification Project](https://github.com/AudreyCLT/Credit-Fraud-Classification)
 ### Problem Statement:
 No one is impervious to financial crimes, and one of the most common one is having a malicious third-party using your credit card without your consent.  This leads to one of the most popular classification problems for data science, where we apply data science to check the validity of a credit card transaction.
+
+### Packages:
+- Spark's MLlib
+
+
+## [3. Movie Review Topic Modelling + Sentiment Analysis](https://github.com/AudreyCTang/Movie-Review-Topic-Modelling-Sentiment-Analysis)
+### Problem Statement:
+Using the IMDb review dataset, this machine learning model clusters the reviews into topics with LDA, and conduct sentiment analysis.
+
+### Use Case for Business:
+With the combination of topic modelling and sentiment analysis, movie production companies and streaming sites can group reviews by semantic similarity and obtain snapshot view of the sentiment.
+
+### Packages:
+- Gensim
+- Huggingface
